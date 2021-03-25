@@ -10,7 +10,7 @@
 
 Установка через composer
 ```
-composer requier walerij/hello
+composer require walerij/hello
 ```
 -------------------------------
 
