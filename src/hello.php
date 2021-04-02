@@ -13,4 +13,10 @@ class Hello {
         return $hello.",".$name."!";
     }
 
+    function hello_dollar($name = "John")
+    {
+        return "Доброе утро, ".$name.". Курс доллара 75.69";
+
+    }
+
 }

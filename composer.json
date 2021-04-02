@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "andydune/currency-rate-cbr": "^1"
+    },
     "autoload": {
         "classmap": ["src"]
     }
